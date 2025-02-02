@@ -8,9 +8,13 @@ This project allows you to control your computer mouse using hand gestures via a
 - **Mouse Movement**: Move the cursor by moving your index finger.
 - **Clicking Actions**:
   - Index finger up → Move cursor
+  - ![Alt text](images/Cursor.gif)
   - Index & middle fingers up and bring them close together → Left click
+  - - ![Alt text](images/Left_Click.gif)
   - Three fingers up → Right click
+  - - ![Alt text](images/Right_Click.gif)
 - **Screenshot Capture**: Raise all five fingers to trigger a screenshot.
+- - ![Alt text](images/Screenshot.gif)
 - **Optimized for Performance**:
   - Uses smoothing for smoother mouse movement.
   - Introduces click delay to avoid unintended multiple clicks.
